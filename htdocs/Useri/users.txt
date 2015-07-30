@@ -5,3 +5,5 @@ news|users|newuser@users.com|New User|
 nou|1234|utilizator@g.c|utilizator nou|
 test1234|1234|test@yahoo.com|test|
 rika2012|gabiza2012|ricardocarcalean@yahoo.com|dasd|
+rika2013|gabiza2012|dsa|dasf|
+rika2012|gabiza2012|vh |fgh|

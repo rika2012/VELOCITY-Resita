@@ -31,6 +31,9 @@ fclose($fh);
 echo header('Location: thank-you-regd.html');
 
 
+$parola = "gabiza2012";
+$codificat = md5($parola);
+echo "<br /> user codificat = $codificat";
 
 
 ?>
